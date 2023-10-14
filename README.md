@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerjamal100&label=Profile%20views&color=0e75b6&style=flat" alt="umerjamal100" /> </p>
 
-- 🌱 I’m currently learning **System design, software architecture and cloud**
+- 🌱 I’m currently learning **System design, software architecture and cloud computing**
 
 - 👨‍💻 Most of my projects are available [here](https://umerjamal100.github.io/omar-portfolio/)
 
